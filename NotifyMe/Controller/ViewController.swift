@@ -17,6 +17,11 @@ class ViewController: UIViewController,CXCallObserverDelegate {
     override func viewDidLoad() {
         super.viewDidLoad()
         setUP()
+        testTest()
+    }
+    
+    func testTest() {
+        //Only for test
     }
     
     func setUP() {
